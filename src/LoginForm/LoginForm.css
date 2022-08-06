@@ -1,0 +1,35 @@
+.login{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: lightseagreen;
+    padding: 5.5rem;
+    margin-top: 5rem;
+    margin-left: 20rem;
+    margin-right: 20rem;
+    border-radius: 2rem;
+    border: 1px solid black;
+
+
+}
+
+.login label{
+    font-weight: bold;
+    font-size: 1rem;
+
+}
+
+
+.login input{
+    width: 20rem;
+
+
+
+}
+
+.login Button{
+    width: 5rem;
+}
+
